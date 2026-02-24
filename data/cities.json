@@ -1,0 +1,100 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Nijar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-04-03T07:47:59.202Z",
+      "notes": "",
+      "position": {
+        "lat": "36.967508314568164",
+        "lng": "-2.13128394200588"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Urla",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2026-02-18T21:02:41.171Z",
+      "notes": "Okul",
+      "position": {
+        "lat": "38.33088431959971",
+        "lng": "26.641845703125"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2026-02-18T21:06:48.083Z",
+      "notes": "Agalarla Mısır Turunun Korkunçluk",
+      "position": {
+        "lat": "30.10743809484761",
+        "lng": "31.267320513725284"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Sharm el-Sheikh",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2026-02-18T21:08:57.635Z",
+      "notes": "",
+      "position": {
+        "lat": "27.875500476759207",
+        "lng": "34.23339843750001"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Nazilli",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2026-02-18T21:10:33.582Z",
+      "notes": "Home",
+      "position": {
+        "lat": "37.91395587567535",
+        "lng": "28.33225747570396"
+      },
+      "id": 98443202
+    }
+  ]
+}
